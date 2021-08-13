@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi I'm John :wave:
 
-<!--
-**john-hc-hwang/john-hc-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer who enjoys coding, solving challenging problems and learning something new each day.
+I'm also a part-time gym rat :muscle: and full-time self-improvement enthusiast :wink:. There is nothing like waking up each day to find
+a better version of yourself :triumph:.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages
+  - JavaScript (ES5/ES6)
+  - HTML5
+  - CSS3
+  - Python
+  - C++
+  - PostgreSQL
+
+- Frameworks & Libraries
+  - React.js
+  - Node.js
+  - Express.js
+
+- Tools
+  - npm
+  - Webpack
+  - Babel
+  - Pgweb
+  - Git
+  - Figma
+  - Slack
+
+## Let's connect!
+
+[LinkedIn](www.linkedin.com/in/john-hc-hwang)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-hc-hwang&show_icons=true&theme=dark)
+
