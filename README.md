@@ -4,7 +4,7 @@ I'm a full-stack web developer who enjoys coding, solving challenging problems a
 I'm also a part-time gym rat :muscle: and full-time self-improvement enthusiast :wink:. There is nothing like waking up each day to find
 a better version of yourself :triumph:.
 
-## Skills
+## Skills :book:
 
 - Languages
   - JavaScript (ES5/ES6)
@@ -28,11 +28,11 @@ a better version of yourself :triumph:.
   - Figma
   - Slack
 
-## Let's connect!
+## Let's connect! :mailbox:
 
-[LinkedIn](www.linkedin.com/in/john-hc-hwang)
+- [LinkedIn](https://www.linkedin.com/in/john-hc-hwang/)
+- [Resume](https://drive.google.com/file/d/1aSaMAWrpTXxFtpQD9oFJenS2yBDXO_Kh/view?usp=sharing)
 
-
+## Stats :bar_chart:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-hc-hwang&show_icons=true&theme=dark)
-
