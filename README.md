@@ -31,7 +31,7 @@ a better version of yourself :triumph:.
 ## Let's connect! :mailbox:
 
 - [LinkedIn](https://www.linkedin.com/in/john-hc-hwang/)
-- [Resume](https://drive.google.com/file/d/1aSaMAWrpTXxFtpQD9oFJenS2yBDXO_Kh/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1G_lVQlpFOyHT3r-3wOhxEQAWvM1w9nEe/view?usp=sharing)
 
 ## Stats :bar_chart:
 
