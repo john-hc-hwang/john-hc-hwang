@@ -19,8 +19,6 @@ I'm also a part-time gym rat :muscle: and full-time self-improvement enthusiast 
 
 - Tools
   - npm
-  - Webpack
-  - Babel
   - Pgweb
   - Git
   - Figma
