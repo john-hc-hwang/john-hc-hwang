@@ -4,13 +4,14 @@ I'm a full-stack web developer who enjoys coding, solving challenging problems a
 I'm also a part-time gym rat :muscle: and full-time self-improvement enthusiast :wink:.
 ## Skills :book:
 
-- Languages
+- Languages & Frontend Structure
   - JavaScript (ES5/ES6)
   - HTML5
   - CSS3
-  - Python
-  - C++
   - PostgreSQL
+  - Python
+  - Java
+  - Kotlin
 
 - Frameworks & Libraries
   - React.js
