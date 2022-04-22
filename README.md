@@ -28,7 +28,7 @@ I'm also a part-time gym rat :muscle: and full-time self-improvement enthusiast 
 ## Let's connect! :mailbox:
 
 - [LinkedIn](https://www.linkedin.com/in/john-hc-hwang/)
-- [Resume](https://drive.google.com/file/d/15qU-521GRG02Ab6y7ShFp5Cqm25uWepL/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/13iRfviktIDi2XN_PlUQnosVijZMqyayI/view?usp=sharing)
 
 ## Stats :bar_chart:
 
