@@ -20,10 +20,10 @@ I'm also a part-time gym rat :muscle: and full-time self-improvement enthusiast 
 
 - Tools
   - npm
-  - Pgweb
+  - VS Code
+  - Android Studio
   - Git
   - Figma
-  - Slack
 
 ## Let's connect! :mailbox:
 
