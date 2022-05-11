@@ -1,7 +1,7 @@
 # Hi I'm John :wave:
 
-I'm a full-stack web developer who enjoys coding, solving challenging problems and learning something new each day.
-I'm also a part-time gym rat :muscle: and full-time self-improvement enthusiast :wink:.
+I'm a software engineer who enjoys coding, solving challenging problems and learning something new each day.
+
 ## Skills :book:
 
 - Languages & Frontend Structure
