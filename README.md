@@ -12,6 +12,7 @@ I'm a software engineer who enjoys coding, solving challenging problems and lear
   - Python
   - Java
   - Kotlin
+  - Swift
 
 - Frameworks & Libraries
   - React.js
@@ -22,6 +23,7 @@ I'm a software engineer who enjoys coding, solving challenging problems and lear
   - npm
   - VS Code
   - Android Studio
+  - XCode
   - Git
   - Figma
 
